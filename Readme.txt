@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Selecao
-Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+<h1>Build A website with Integrated Payment Gateway Task(RazorPay)</h1>
